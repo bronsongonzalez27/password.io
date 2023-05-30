@@ -1,0 +1,3 @@
+I created this password gen so i no longer have to think of a password, it took me about 2 hours to complete it was really fun and i enjoyed doing it.
+Sources I used to get help, I booked a study session and got help from one of the tutor's, on top of that i used two youtube videos to help me get a better understanding https://www.youtube.com/watch?v=iKo9pDKKHnc&t=1068s
+https://www.youtube.com/watch?v=x4HUaiazDes&ab_channel=PaulKeldsen-WebDevelopment

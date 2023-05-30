@@ -1,0 +1,23 @@
+body {
+    /* aligned the text so its centered, changed the color and font to make it look cool. */
+    background-color: #28272a;
+    color:#CAC3b8; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   
+}
+.container{
+    /* stylized the box to add more detail to the generator so it is not boring. */
+     background-color: #839a9b;
+     padding: 40px;
+     border:4px solid black;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+}
+
